@@ -1,0 +1,6 @@
+2020-09-05 14:53:44,736 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-09-05 15:03:39,712 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-09-05 15:06:06,187 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo1.maven.org/maven2/am/ik/archetype/graalvm-springmvc-blank-archetype/0.1.2/graalvm-springmvc-blank-archetype-0.1.2.jar
+2020-09-05 15:06:06,635 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo1.maven.org/maven2/am/ik/archetype/graalvm-springmvc-blank-archetype/0.1.2/graalvm-springmvc-blank-archetype-0.1.2.jar
+2020-09-05 15:06:06,822 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo1.maven.org/maven2/am/ik/archetype/graalvm-springmvc-blank-archetype/0.1.2/graalvm-springmvc-blank-archetype-0.1.2.pom
+2020-09-05 15:06:07,020 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo1.maven.org/maven2/am/ik/archetype/graalvm-springmvc-blank-archetype/0.1.2/graalvm-springmvc-blank-archetype-0.1.2.pom
